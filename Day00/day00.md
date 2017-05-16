@@ -1,0 +1,1 @@
+# Day 0 - Introduction, Python, images
