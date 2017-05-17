@@ -1,14 +1,20 @@
-# 추진 계획 및 사전 준비
+# 사전 준비
 
 ## 개발환경 구성
-* python
-* IPyhon
-* numpy
-* ...
+* Python - [Ask Django의 파이썬과 Jupyter Notebook 설치하기 참고](https://nomade.kr/vod/setup/43/)    
+* git & github - [Ask Django의 간단하게 살펴보는 Git과 Github 참고](https://nomade.kr/vod/setup/105/)
+    > 파이썬에 대해서 좀 더 추가적인 내용은 [Ask Django의 개발환경 구축하기](https://nomade.kr/vod/setup/) 나머지 비디오를 참고하세요.
 
+## 본 코스의 Topic 별 구성 [Link](https://bic-berkeley.github.io/psych-214-fall-2016/topics.html)
+* Python
+* Numpy, arrays and images
+* Matplotlib
+* Git
+* General statistics and math
+* Image processing and spatial transformations
+* Specific to FMRI  
 
-
-## 참고자료 전체 구성(Classes and labs)
+## 본 코스의 수업 구성(Classes and labs)
 * [[Day 00] Introduction, Python, images](https://bic-berkeley.github.io/psych-214-fall-2016/day_00.html)
     * [[Lab 00] Basic Python exercises](https://bic-berkeley.github.io/psych-214-fall-2016/lab_00.html)
 * [[Day 01] Arrays, images and plotting](https://bic-berkeley.github.io/psych-214-fall-2016/day_01.html)

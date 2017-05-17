@@ -3,7 +3,3 @@
 
 참고자료:
 * [PSYCH 214 Fall 2016](https://bic-berkeley.github.io/psych-214-fall-2016/)
-
-## 개발 환경
-* python
-
