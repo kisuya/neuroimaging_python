@@ -1,5 +1,5 @@
 # Preparations for this course
-1회차때 발표 자료 중 **`개발환경 구성`** 참고
+1회차때 발표 자료 중 **[개발환경 구성](https://github.com/kisuya/neuroimaging_python/tree/master/1st_intro#개발환경-구성)** 참고
 
 ## Anaconda 설치 !
 * [공식홈페이지](https://docs.continuum.io/anaconda/install)
