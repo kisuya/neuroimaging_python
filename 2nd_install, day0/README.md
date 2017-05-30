@@ -1,9 +1,5 @@
 # [Day 0 - Introduction, Python, images](https://bic-berkeley.github.io/psych-214-fall-2016/day_00.html)
 
-
-## Introduction
-- [What we will learn in this course](https://bic-berkeley.github.io/psych-214-fall-2016/topics.html)
-
 ## Python
 - [Brisk introduction to Python](https://bic-berkeley.github.io/psych-214-fall-2016/brisk_python.html)
 
